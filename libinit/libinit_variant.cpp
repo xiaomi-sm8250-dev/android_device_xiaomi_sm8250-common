@@ -45,6 +45,7 @@ void set_variant_props(const variant_info_t variant) {
         property_override(SKU_PROP, "nfc");
 
     property_override("ro.arch", variant.device);
+    property_override("ro.boot.product.vendor.sku", variant.device);
 
     int i = 0;
     try {
