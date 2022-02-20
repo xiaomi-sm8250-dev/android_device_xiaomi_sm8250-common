@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2020-2021 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Ambient settings -->
+    <string name="ambient_enable">Ortam ekranını kullan</string>
+
+    <!-- High Touch Polling Rate Support strings -->
+    <string name="htsr_enable_title">Dokunma hassasiyetini arttır</string>
+    <string name="htsr_enable_summary">Gecikmeyi azaltmak için dokunmatik kontrol oranını arttırır</string>
+
+    <!-- Clear Speaker -->
+    <string name="clear_speaker_title">Hoparlör Temizleme</string>
+    <string name="clear_speaker_summary">Hoparlörü temizlemek için 30 saniye uzunluğunda bir ses çal</string>
+    <string name="clear_speaker_description">Hoparlörünüzün az miktarda toz tarafından engellendiğini düşünüyorsanız bu özelliği bir ya da iki kez çalıştırın. Medya ses yükseliğini en yüksek ayara getirin.\n\nEğer hoparlörünüzde aşırı miktarda toz biriktiğini düşünüyorsanız bu özelliği telefonunuzun ekranı yere bakacak şekilde sallarken 2 ila 5 kez çalıştırın.\n\nUYARI: Herhangi bir kulaklığın bağlı olmadığından emin olun.</string>
+
+    <!-- Thermal Profiles -->
+    <string name="thermal_title">Termal Profiller</string>
+    <string name="thermal_summary">Optimum performans için her uygulamanın termal profilini ayarla</string>
+    <string name="thermal_default">Varsayılan</string>
+    <string name="thermal_benchmark">Benchmark</string>
+    <string name="thermal_browser">Tarayıcı</string>
+    <string name="thermal_camera">Kamera</string>
+    <string name="thermal_dialer">Telefon</string>
+    <string name="thermal_gaming">Oyun</string>
+    <string name="thermal_streaming">Yayın</string>
+
+    <!-- Touch Control Settings -->
+    <string name="touch_control_title">Dokunma Kontrolü</string>
+    <string name="touch_game_mode_title">Aktive et</string>
+    <string name="touch_response_title">Duyarlılık</string>
+    <string name="touch_response_summary">Dokunma duyarlılığını kontrol eder</string>
+    <string name="touch_sensitivity_title">Hassasiyet</string>
+    <string name="touch_sensitivity_summary">Tekrarlanan dokunma işlemleri için dokunmatik hassasiyetini kontrol eder</string>
+    <string name="touch_resistant_title">Ekran Kenarları</string>
+    <string name="touch_resistant_summary">Ekranın kenarına yakın kısımlarda dokunmatik hassasiyetini azaltarak yanlış dokunmaları engelleyin</string>
+
+    <!-- Refresh Rate tile -->
+    <string name="refresh_rate_tile_title">Yenileme Hızı</string>
+
+</resources>
